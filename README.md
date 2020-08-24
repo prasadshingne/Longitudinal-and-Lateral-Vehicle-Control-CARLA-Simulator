@@ -12,3 +12,10 @@ Note: According to Coursera's Honor Code none of the solutions can be shared in 
 6. steer_output.png - Shows the controller steering input normalized to between +/- 1.
 7. throttle_output.png - Shows the controller throttle input between 0 and 1.
 8. trajectory.png - Shows the desired and simulated vehicle trajectory.
+
+
+## My solution video shared on YouTube -
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TUvzyj3_sKI
+" target="_blank"><img src="http://img.youtube.com/vi/TUvzyj3_sKI/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
